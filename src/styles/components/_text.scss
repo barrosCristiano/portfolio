@@ -1,0 +1,10 @@
+.title-underline {
+    &::after {
+        content: "";
+        display: block;
+        height: .4rem;
+        width: 5rem;
+        background-color: #E54B4B;
+        margin-top: .5rem;
+    }
+}
